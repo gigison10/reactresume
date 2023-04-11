@@ -17,7 +17,7 @@ function SideInfo() {
         <p>Phone: +373 61006011</p>
         <p>email: eugen.izman@gmail.com</p>
         <a href="https://github.com/gigison10" target="_blank">
-          github.com/gigison10
+          https://github.com/gigison10
         </a>
         <a href="https://linkedin.com/in/eugenizman" target="_blank">
           LinkedIn
