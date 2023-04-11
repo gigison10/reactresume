@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactresume/static/css/main.1490c7f8.css",
+    "main.js": "/reactresume/static/js/main.9b72fe8c.js",
+    "static/media/mapty.png": "/reactresume/static/media/mapty.b2524728163ffb9c58cf.png",
+    "static/media/22.png": "/reactresume/static/media/22.3d86eb94fbf3a6da59fe.png",
+    "static/media/mac.png": "/reactresume/static/media/mac.1fb21e5020265a2ddf40.png",
+    "static/media/PigGame.png": "/reactresume/static/media/PigGame.050350d5176baa756a56.png",
+    "static/media/GuessMyNumber.png": "/reactresume/static/media/GuessMyNumber.16b5b1bfda892aa60dbb.png",
+    "index.html": "/reactresume/index.html",
+    "main.1490c7f8.css.map": "/reactresume/static/css/main.1490c7f8.css.map",
+    "main.9b72fe8c.js.map": "/reactresume/static/js/main.9b72fe8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1490c7f8.css",
+    "static/js/main.9b72fe8c.js"
+  ]
+}
