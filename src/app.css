@@ -110,6 +110,10 @@
   background: none;
 }
 
+.emptyClass {
+  background-color: navajowhite;
+}
+
 .sideInfoContact {
   padding: 15px;
   margin: 0 10px 24px;
