@@ -191,7 +191,19 @@
   color: #495464;
 }
 
+.education a {
+  color: #495464;
+}
+
 .myUniverLesson {
+  width: 900px;
+  height: 230px;
+  margin-top: 30px;
+  font-weight: 600;
+  line-height: 1.7;
+  color: #495464;
+}
+.myUniverLesson a {
   width: 900px;
   height: 230px;
   margin-top: 30px;
