@@ -164,7 +164,7 @@
 
 .mainSection {
   width: 900px;
-  height: 230px;
+  height: 370px;
 }
 
 .mainSection h1 {
@@ -283,4 +283,13 @@
 .mapty {
   margin-top: 65px;
   background-image: url("./components/mapty.png");
+}
+
+.gotask {
+  margin-top: 65px;
+  background-image: url("./components/gotask.png");
+}
+.monster {
+  margin-top: 65px;
+  background-image: url("./components/monster rolodex.png");
 }

@@ -3,6 +3,28 @@ function Projects(props) {
     <div className="project">
       <div className="projectInfo">
         <div className="projectDescription">
+          <h1>Go Task</h1>
+          {props.gotask}
+        </div>
+        <a
+          className="img gotask"
+          href="https://gigison10.github.io/GoTask/"
+          target="_blank"
+        ></a>
+      </div>{" "}
+      <div className="projectInfo">
+        <div className="projectDescription">
+          <h1>Monster Rolodex</h1>
+          {props.monster}
+        </div>
+        <a
+          className="img monster"
+          href="https://gigison10.github.io/monster-rolodex/"
+          target="_blank"
+        ></a>
+      </div>
+      <div className="projectInfo">
+        <div className="projectDescription">
           <h1>Mapty</h1>
           {props.mapty}
         </div>

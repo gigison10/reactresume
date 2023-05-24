@@ -1,6 +1,10 @@
 import Projects from "./Projects";
 
 function ProjectsDescription() {
+  const gotask = `The Task Manager is a work-in-progress web application designed for crop managers or companies. It incorporates Firebase authentication, allowing users to sign up and log in with email or Google. Users can create, save, and delete projects in real-time using Firebase's database. The project utilizes React hooks for efficient state management. This application aims to enhance task organization and workflow efficiency for crop managers and companies.`;
+
+  const monster = `Monster Rolodex is a React web app demonstrating my skills in building interactive interfaces. It fetches monster profiles from an API and allows users to search and filter them. Key features include real-time search, reusable components, state management with React hooks, and API integration.`;
+
   const mapty = `Mapty is an application designed to help users track their workouts by marking training places on a map and keeping a record of their fitness achievements. This project was developed as a part of a JavaScript course and served as an introduction to asynchronous functions, working with APIs, and local    storage.
   To use Mapty, users can click on the map to mark a location where they have completed a workout. They can then choose the type of workout, such as running or cycling and enter additional details such as the distance traveled, time taken.The app also allows users to view their workout history and track their progress over time`;
 
@@ -18,6 +22,8 @@ function ProjectsDescription() {
 
   return (
     <Projects
+      gotask={gotask}
+      monster={monster}
       mapty={mapty}
       pigGame={pigGame}
       guessMyNumber={guessMyNumber}
