@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactresume/static/css/main.02c1d668.css",
-    "main.js": "/reactresume/static/js/main.ae5ea7b1.js",
+    "main.css": "/reactresume/static/css/main.01da22d7.css",
+    "main.js": "/reactresume/static/js/main.3258d0d7.js",
     "static/media/mapty.png": "/reactresume/static/media/mapty.b2524728163ffb9c58cf.png",
     "static/media/22.png": "/reactresume/static/media/22.3d86eb94fbf3a6da59fe.png",
     "static/media/mac.png": "/reactresume/static/media/mac.1fb21e5020265a2ddf40.png",
@@ -11,11 +11,11 @@
     "static/media/GuessMyNumber.png": "/reactresume/static/media/GuessMyNumber.16b5b1bfda892aa60dbb.png",
     "static/media/1.jpg": "/reactresume/static/media/1.9bf73a15f4c7ee275c5e.jpg",
     "index.html": "/reactresume/index.html",
-    "main.02c1d668.css.map": "/reactresume/static/css/main.02c1d668.css.map",
-    "main.ae5ea7b1.js.map": "/reactresume/static/js/main.ae5ea7b1.js.map"
+    "main.01da22d7.css.map": "/reactresume/static/css/main.01da22d7.css.map",
+    "main.3258d0d7.js.map": "/reactresume/static/js/main.3258d0d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.02c1d668.css",
-    "static/js/main.ae5ea7b1.js"
+    "static/css/main.01da22d7.css",
+    "static/js/main.3258d0d7.js"
   ]
 }
